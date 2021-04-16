@@ -1,5 +1,5 @@
 # MedicalDLM-Complexity-AdvRobust
-This repository contains the datasets and codes used in our study On the Role of Deep Learning Model Complexity in Adversarial Robustness of Medical Images.
+This repository contains the <!--datasets and-->codes used in our study On the Role of Deep Learning Model Complexity in Adversarial Robustness of Medical Images.
 ## Usage
 ### 1. Check the requirements.
 * python 3.7.6
