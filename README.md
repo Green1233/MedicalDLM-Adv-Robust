@@ -19,10 +19,10 @@ This repository contains the datasets and codes used in our study On the Role of
 * [OCT](https://www.kaggle.com/paultimothymooney/kermany2018)
 ### 3. Train models.
 python3 train_cbrLargeT.py<br/>
-python3 train_resnet8.py<br/>
-python3 train_resnet20.py<br/>
+python3 train_resnet.py<br/>
+<!--python3 train_resnet20.py<br/>
 python3 train_resnet32.py<br/>
-python3 train_resnet50.py<br/>
+python3 train_resnet50.py<br/>-->
 ### 4. Adversarial attacks.
 <!---# Attacks a pretrained DNN model with FGSM or PGD attack for a specified range of epsilon values<br/>
 Generates saliency maps of test data for specified image index at each epsilon value<br/>
